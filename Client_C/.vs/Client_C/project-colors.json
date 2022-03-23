@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7a1d3f9a-8512-4717-ac40-d6278eb5c932": {
+      "ProjectGuid": "7a1d3f9a-8512-4717-ac40-d6278eb5c932",
+      "DisplayName": "Client_FirstProject",
+      "ColorIndex": 0
+    },
+    "7ddae243-3c02-4c3a-a257-7da8f36144d2": {
+      "ProjectGuid": "7ddae243-3c02-4c3a-a257-7da8f36144d2",
+      "DisplayName": "ConstantExpression",
+      "ColorIndex": 1
+    },
+    "f81379d5-00f5-4d68-896a-313d15e2f034": {
+      "ProjectGuid": "f81379d5-00f5-4d68-896a-313d15e2f034",
+      "DisplayName": "Variables",
+      "ColorIndex": 2
+    },
+    "33ced16d-add2-405b-9c3f-fb21fcbb5212": {
+      "ProjectGuid": "33ced16d-add2-405b-9c3f-fb21fcbb5212",
+      "DisplayName": "OutputFunction_scanf",
+      "ColorIndex": 3
+    },
+    "30c88bcd-bb8f-4b86-8190-b19e0b9cc0df": {
+      "ProjectGuid": "30c88bcd-bb8f-4b86-8190-b19e0b9cc0df",
+      "DisplayName": "Operator",
+      "ColorIndex": 4
+    },
+    "8f1c6391-405e-4704-bbb4-cedc9c481a5e": {
+      "ProjectGuid": "8f1c6391-405e-4704-bbb4-cedc9c481a5e",
+      "DisplayName": "ControlStatement_if",
+      "ColorIndex": 5
+    },
+    "f8082de6-c160-4156-9a0b-2833f05145e0": {
+      "ProjectGuid": "f8082de6-c160-4156-9a0b-2833f05145e0",
+      "DisplayName": "ControlStatement_SwitchCase",
+      "ColorIndex": 6
+    },
+    "afb040bb-0217-4837-8638-18f3f9813171": {
+      "ProjectGuid": "afb040bb-0217-4837-8638-18f3f9813171",
+      "DisplayName": "ControlStatement_Loop_While",
+      "ColorIndex": 7
+    },
+    "67c3420e-fdf2-4acd-9af6-55f8a30433a7": {
+      "ProjectGuid": "67c3420e-fdf2-4acd-9af6-55f8a30433a7",
+      "DisplayName": "ControlStatement_Loop_For",
+      "ColorIndex": 8
+    }
+  },
+  "NextColorIndex": 9
+}
