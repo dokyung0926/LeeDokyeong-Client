@@ -1,2 +1,6 @@
 ﻿  main.c
-  OutputFunction_scanf.vcxproj -> C:\Users\User\Documents\GitHub\Client_Nowon_1800_2000\Client_C\Debug\OutputFunction_scanf.exe
+C:\GItHub\LeeDokyeong-Client\Client_C\OutputFunction_scanf\main.c(8,18): warning C4474: 'scanf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\GItHub\LeeDokyeong-Client\Client_C\OutputFunction_scanf\main.c(8,18): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+C:\GItHub\LeeDokyeong-Client\Client_C\OutputFunction_scanf\main.c(10,18): warning C4474: 'scanf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+C:\GItHub\LeeDokyeong-Client\Client_C\OutputFunction_scanf\main.c(10,18): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+  OutputFunction_scanf.vcxproj -> C:\GItHub\LeeDokyeong-Client\Client_C\Debug\OutputFunction_scanf.exe
