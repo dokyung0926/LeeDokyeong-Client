@@ -50,7 +50,17 @@
       "ProjectGuid": "e4549da5-9cee-46f2-accf-73251e1c8866",
       "DisplayName": "Function",
       "ColorIndex": 9
+    },
+    "5b4c50d1-52fe-46d8-a859-23d665e6e86f": {
+      "ProjectGuid": "5b4c50d1-52fe-46d8-a859-23d665e6e86f",
+      "DisplayName": "Example1",
+      "ColorIndex": 10
+    },
+    "2e4514e6-2c8d-4f0b-bbfb-7081020dc565": {
+      "ProjectGuid": "2e4514e6-2c8d-4f0b-bbfb-7081020dc565",
+      "DisplayName": "Pointer",
+      "ColorIndex": 11
     }
   },
-  "NextColorIndex": 10
+  "NextColorIndex": 12
 }

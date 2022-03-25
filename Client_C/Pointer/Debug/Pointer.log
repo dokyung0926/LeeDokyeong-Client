@@ -1,0 +1,5 @@
+﻿  main.c
+C:\GItHub\LeeDokyeong-Client\Client_C\Pointer\main.c(9,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\GItHub\LeeDokyeong-Client\Client_C\Pointer\main.c(22,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+C:\GItHub\LeeDokyeong-Client\Client_C\Pointer\main.c(27,8): warning C4133: '=': 'double *'과(와) 'int *' 사이의 형식이 호환되지 않습니다.
+  Pointer.vcxproj -> C:\GItHub\LeeDokyeong-Client\Client_C\Debug\Pointer.exe
