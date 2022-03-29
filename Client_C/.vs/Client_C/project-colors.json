@@ -60,7 +60,17 @@
       "ProjectGuid": "2e4514e6-2c8d-4f0b-bbfb-7081020dc565",
       "DisplayName": "Pointer",
       "ColorIndex": 11
+    },
+    "c3b49093-82fc-49b8-9a8d-37e6116ff46c": {
+      "ProjectGuid": "c3b49093-82fc-49b8-9a8d-37e6116ff46c",
+      "DisplayName": "PointerAndArray",
+      "ColorIndex": 12
+    },
+    "f19dacd3-2470-4d25-927b-6df8b002dd5d": {
+      "ProjectGuid": "f19dacd3-2470-4d25-927b-6df8b002dd5d",
+      "DisplayName": "DoublePointer",
+      "ColorIndex": 13
     }
   },
-  "NextColorIndex": 12
+  "NextColorIndex": 14
 }
