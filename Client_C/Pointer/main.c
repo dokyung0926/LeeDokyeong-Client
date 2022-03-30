@@ -111,5 +111,15 @@ int main() {
 	swap(&_a, &_b);
 	printf("_a = %d, _b = %d \n", &_a, &_b); // 예상결과 a = 2,b = 1
 
+
+	// void 포인터
+	int* p;
+	double* dp;
+	p = dp;
+
+	void* vp = NULL;
+	vp = p;
+
+
 	return 0;
 }

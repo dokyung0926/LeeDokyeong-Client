@@ -70,7 +70,27 @@
       "ProjectGuid": "f19dacd3-2470-4d25-927b-6df8b002dd5d",
       "DisplayName": "DoublePointer",
       "ColorIndex": 13
+    },
+    "7e7003a4-a4fd-454b-a77f-2fb1652ea743": {
+      "ProjectGuid": "7e7003a4-a4fd-454b-a77f-2fb1652ea743",
+      "DisplayName": "FunctionPointer",
+      "ColorIndex": 14
+    },
+    "9b7517a1-8092-4c0c-a959-4a4ff7921bb6": {
+      "ProjectGuid": "9b7517a1-8092-4c0c-a959-4a4ff7921bb6",
+      "DisplayName": "dokyeong",
+      "ColorIndex": 15
+    },
+    "b52a7676-0fda-4ea4-81e2-96b41e54e22d": {
+      "ProjectGuid": "b52a7676-0fda-4ea4-81e2-96b41e54e22d",
+      "DisplayName": "TypeDefine",
+      "ColorIndex": 0
+    },
+    "39db78f5-d7ad-421a-84f2-7cbdcd02e757": {
+      "ProjectGuid": "39db78f5-d7ad-421a-84f2-7cbdcd02e757",
+      "DisplayName": "Structure",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 14
+  "NextColorIndex": 2
 }
