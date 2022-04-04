@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f8082de6-c160-4156-9a0b-2833f05145e0}</ProjectGuid>
+    <ProjectGuid>{82d5ac1e-d01f-4fa2-bb7d-09d6e64916b9}</ProjectGuid>
     <RootNamespace>ControlStatementSwitchCase</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

@@ -1,4 +1,2 @@
 ﻿  main.c
-C:\GItHub\LeeDokyeong-Client\Client_C\ControlStatement_Loop_While\main.c(31,10): error C2001: 상수에 줄 바꿈 문자가 있습니다.
-C:\GItHub\LeeDokyeong-Client\Client_C\ControlStatement_Loop_While\main.c(32,2): error C2143: 구문 오류: ')'이(가) '}' 앞에 없습니다.
-C:\GItHub\LeeDokyeong-Client\Client_C\ControlStatement_Loop_While\main.c(37,1): fatal error C1004: 예기치 않은 파일의 끝이 나타났습니다.
+  ControlStatement_Loop_While.vcxproj -> C:\Users\User\Documents\GitHub\Client_Nowon_1800_2000\Client_C\Debug\ControlStatement_Loop_While.exe

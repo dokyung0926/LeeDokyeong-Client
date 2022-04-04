@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{f19dacd3-2470-4d25-927b-6df8b002dd5d}</ProjectGuid>
+    <ProjectGuid>{aa19a03d-9bb0-421e-8d13-35f413c69045}</ProjectGuid>
     <RootNamespace>DoublePointer</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

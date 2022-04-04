@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{67c3420e-fdf2-4acd-9af6-55f8a30433a7}</ProjectGuid>
-    <RootNamespace>ControlStatementLoopFor</RootNamespace>
+    <ProjectGuid>{5d93e4df-4be9-4b87-ac7c-89ec7d41af64}</ProjectGuid>
+    <RootNamespace>ControlStatementLoopfor</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />

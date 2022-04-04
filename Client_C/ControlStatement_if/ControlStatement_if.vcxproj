@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{8f1c6391-405e-4704-bbb4-cedc9c481a5e}</ProjectGuid>
+    <ProjectGuid>{05c11429-6f6c-4639-8e2d-08ae664c43b7}</ProjectGuid>
     <RootNamespace>ControlStatementif</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
