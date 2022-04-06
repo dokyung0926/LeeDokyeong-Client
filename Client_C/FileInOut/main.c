@@ -28,5 +28,5 @@ int main() {
 	FILE* fp6;
 	fp6 = fopen("binary.txt", "wb");
 	char a[] = "asdafdfasd3123213ds";
-	fwrite(a)
+	fwrite(a);
 }
